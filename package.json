@@ -23,7 +23,7 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "classnames": "^2.2.6",
-    "clipboard": "^2.0.4",
+    "clipboard": "^2.0.11",
     "cookie": "^0.4.0",
     "cookie-parser": "^1.4.4",
     "crc-32": "^1.2.0",
